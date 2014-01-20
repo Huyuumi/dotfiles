@@ -1,0 +1,14 @@
+VimClojure
+YankRing.vim
+jedi-vim
+jellybeans.vim
+neobundle.vim
+neocomplcache
+neosnippet
+neosnippet-snippets
+syntastic
+unite.vim
+vim-slime
+vim-surround
+vimproc
+vimshell
